@@ -1,2 +1,0 @@
-# Folody-docs
-Documents
