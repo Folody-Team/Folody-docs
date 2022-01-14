@@ -4,8 +4,17 @@ Listening to music everytime with friends and relax Folody was created in `2021`
 
 ### List commands
 
-#### 1. `play` command
+[Play](https://github.com/Folody-Team/Folody-docs/blob/main/README.md#1-play-command) command.<br/>
+[Skip](https://github.com/Folody-Team/Folody-docs/blob/main/README.md#2-skip-command) command.<br/>
+[Skip](https://github.com/Folody-Team/Folody-docs/blob/main/README.md#3-stop-command) command.
 
+<br/>
+<br/>
+<br/>
+
+# About commands
+
+#### 1. `play` command
 
 <img src="https://mermaid.ink/svg/eyJjb2RlIjoiZ3JhcGggTFJcbkFbU29uZyBuYW1lIG9yIGxpbmsgb3IgaW1hZ2VdIC0tIFN0cmluZyAtLT4gQihTZWFyY2gpXG5BIC0tIEltYWdlIC0tPiBDKFNlYXJjaClcbkMgLS0gSGF2ZSB0ZXh0IC0tPiBFKFJlY29nbml6ZSB0ZXh0KSAtLT4gRihTdHJpbmcpIC0tPiBCXG5CIC0tPiBEe1BsYXl9XG5DIC0tPiBEIiwibWVybWFpZCI6eyJ0aGVtZSI6ImRhcmsifSwidXBkYXRlRWRpdG9yIjpmYWxzZSwiYXV0b1N5bmMiOnRydWUsInVwZGF0ZURpYWdyYW0iOmZhbHNlfQ"/>
 
@@ -14,3 +23,8 @@ Listening to music everytime with friends and relax Folody was created in `2021`
 
 
 <img src="https://mermaid.ink/svg/eyJjb2RlIjoiZ3JhcGggTFJcbkFbU2tpcCBmdW5jdGlvbl0gLS0gcXVldWUgPT09IEIobnVsbCkgLS0-IEMoU3RvcCBwbGF5KVxuQSAtLSBxdWV1ZSAtLT4gRChTa2lwKSAtLT4gRShQTGF5KSIsIm1lcm1haWQiOnsidGhlbWUiOiJkYXJrIn0sInVwZGF0ZUVkaXRvciI6ZmFsc2UsImF1dG9TeW5jIjp0cnVlLCJ1cGRhdGVEaWFncmFtIjpmYWxzZX0"/>
+
+
+#### 3. `stop` command
+
+<img src="https://mermaid.ink/svg/eyJjb2RlIjoiZ3JhcGggTFJcbkFbU3RvcCBmdW5jdGlvbl0gLS0-IEIoU3RvcHBlZCkiLCJtZXJtYWlkIjp7InRoZW1lIjoiZGFyayJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlLCJhdXRvU3luYyI6dHJ1ZSwidXBkYXRlRGlhZ3JhbSI6ZmFsc2V9"/>
