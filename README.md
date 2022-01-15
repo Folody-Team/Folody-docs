@@ -6,7 +6,9 @@ Listening to music everytime with friends and relax Folody was created in `2021`
 
 [Play](https://github.com/Folody-Team/Folody-docs/blob/main/README.md#1-play-command) command.<br/>
 [Skip](https://github.com/Folody-Team/Folody-docs/blob/main/README.md#2-skip-command) command.<br/>
-[Skip](https://github.com/Folody-Team/Folody-docs/blob/main/README.md#3-stop-command) command.
+[Stop](https://github.com/Folody-Team/Folody-docs/blob/main/README.md#3-stop-command) command.<br/>
+[Pause](https://github.com/Folody-Team/Folody-docs/blob/main/README.md#4-pause-command) command.<br/>
+[Resume](https://github.com/Folody-Team/Folody-docs/blob/main/README.md#5-resume-command) command.
 
 <br/>
 <br/>
@@ -28,3 +30,11 @@ Listening to music everytime with friends and relax Folody was created in `2021`
 #### 3. `stop` command
 
 <img src="https://mermaid.ink/svg/eyJjb2RlIjoiZ3JhcGggTFJcbkFbU3RvcCBmdW5jdGlvbl0gLS0-IEIoU3RvcHBlZCkiLCJtZXJtYWlkIjp7InRoZW1lIjoiZGFyayJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlLCJhdXRvU3luYyI6dHJ1ZSwidXBkYXRlRGlhZ3JhbSI6ZmFsc2V9"/>
+
+#### 4. `pause` command
+
+<img src="https://mermaid.ink/svg/eyJjb2RlIjoiZ3JhcGggTFJcbkFbUGF1c2UgZnVuY3Rpb25dIC0tPiBDKFBhdXNlIGN1cnJlbnQgc29uZylcbiIsIm1lcm1haWQiOnsidGhlbWUiOiJkYXJrIn0sInVwZGF0ZUVkaXRvciI6ZmFsc2UsImF1dG9TeW5jIjp0cnVlLCJ1cGRhdGVEaWFncmFtIjpmYWxzZX0"/>
+
+#### 5. `resume` command
+
+<img src="https://mermaid.ink/svg/eyJjb2RlIjoiZ3JhcGggTFJcbkFbUmVzdW1lIGZ1bmN0aW9uXSAtLT4gQyhDb250aW51ZSB0aGUgc29uZylcbiIsIm1lcm1haWQiOnsidGhlbWUiOiJkYXJrIn0sInVwZGF0ZUVkaXRvciI6ZmFsc2UsImF1dG9TeW5jIjp0cnVlLCJ1cGRhdGVEaWFncmFtIjpmYWxzZX0"/>
